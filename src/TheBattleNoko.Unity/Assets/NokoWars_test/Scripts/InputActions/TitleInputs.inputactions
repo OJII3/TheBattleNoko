@@ -1,0 +1,34 @@
+{
+    "name": "TitleInputs",
+    "maps": [
+        {
+            "name": "Test",
+            "id": "68eb03d7-f309-4678-af76-9c878be5b1de",
+            "actions": [
+                {
+                    "name": "NextScene",
+                    "type": "Button",
+                    "id": "e48173b6-c57e-46fa-b249-123e951eb129",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f0cbd015-1220-49ca-89e7-4b20afd682dd",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NextScene",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
